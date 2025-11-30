@@ -5,7 +5,7 @@
 A curated collection of notes, slides, and short writeups I keep while reading and building projects.  
 This repo groups materials by topic (see the `astrophysics/` folder and its children). Files are mostly Markdown and simple text so everything is human-readable.
 
-Please find my portfolio in the main directory, it has a summary of my profile.
+Please find my CV & portfolio (it has a summary of my profile) in the main directory.
 
 How this repo is organised
 - Topic folders (e.g., `astrophysics/`) contain a `README.md` explaining the folder and short indices.
